@@ -5,8 +5,6 @@
 ⚒️ ***보유스택*** - ***#Express.js #Nest.js #MySQL #Sequelize #TypeORM #AWS(RDS, S3, EC2) #GitHub Actions #Redis #JWT #Socket.io #HTML5 #CSS #JQuery #GitHub #ZEP #Notion #Slack***
 
 ---
-<br>
-
 ### **SKILL HILIGHTS** 🔑
 <br>
 
@@ -15,7 +13,6 @@
 - **AWS** - EC2, RDS, S3 적용
 - **Sequelize**, **TypeORM** 활용
 - 디지털 마케팅 관련 개발 팀 및 Acquisition 팀 협업
-
 - **Socket.io**를 이용한 채팅 구현 및 실시간 알림
 - **JWT** 인증 방식 적용
 - GitHub Actions - **자동 배포 환경** 구축
@@ -59,7 +56,9 @@
 
  🤝 **협업 툴**: ***GitHub Slack Notion ZEP***
 
-![🎉 **홈 파티를 주최하여 친구를 사귀는 소셜 커뮤니티 플랫폼**](let%20%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%20=%20everEvolvingDeveloper%20fefe28a5ce5e46c084ffd135d3f21917/Untitled%201.png)
+![🎉 **홈 파티를 주최하여 친구를 사귀는 소셜 커뮤니티 플랫폼**]
+![Untitled 1](https://user-images.githubusercontent.com/118159763/237035312-92896f49-47f9-4b1b-867d-d17e2286bd4a.png)
+
 
 🎉 **홈 파티를 주최하여 친구를 사귀는 소셜 커뮤니티 플랫폼**
 
@@ -81,10 +80,12 @@
 
  🤝 **협업 툴**: ***GitHub Slack Notion ZEP***
 
-![🥢 **극한음식 챌린지 E-Commerce 플랫폼**](let%20%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%20=%20everEvolvingDeveloper%20fefe28a5ce5e46c084ffd135d3f21917/Untitled%202.png)
+![🥢 **극한음식 챌린지 E-Commerce 플랫폼**]
+![Untitled 2](https://user-images.githubusercontent.com/118159763/237035231-f4dfd3c7-ddf9-4530-85fe-7a8e36fbfffe.png)
 
 🥢 **극한음식 챌린지 E-Commerce 플랫폼**
 
+---
 <br>
 
 ### **EXPERIENCE**
