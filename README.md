@@ -108,16 +108,4 @@
 - MVP 기능 및 팀원 개발 일정 관리
 - 팀원 코드 검토 및 에러 조율 (트러블슈팅)
 
-<br>
 
- 🗓️ *‘19.09 - ‘22.09* | ***에티오피아항공*** | *서울* | *Sales, Digital Marketing & Pricing*
-
-- 개발팀 및 Acquisition팀 협업
-- 온라인 마케팅 |  타깃 클라이언트 및 마케팅 액션 플랜 설정, 이메일 마케팅 매니징
-- 소셜 마케팅 | YouTuber 협업, 소셜 플랫폼 운영, 환승 프로그램 보수
-- 국내 결제 시스템 | 카카오페이 및 로컬 결제 시스템 도입 조율 - Nice Payments & Adyen
-- 운임 및 수익 분석 | 각 목적지 시장률 조사, 항공 운임/수익 분석 및 조정
-
-<br>
-
- 🗓️ *‘17.07 - ‘18.12* | *Emerald Global Services* | *London* | *Corporate, travel consultant*
