@@ -2,7 +2,7 @@
 
 *Node.js 신입 개발자* | *younghwan1608@gmail.com* | 🔗[***LinkedIn***](https://www.linkedin.com/in/young-hwan-oh/)
 
-⚒️ ***보유스택*** - *** <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> #Express.js #Nest.js #MySQL #Sequelize #TypeORM #AWS(RDS, S3, EC2) #GitHub Actions #Redis #JWT #Socket.io #HTML5 #CSS #JQuery #GitHub #ZEP #Notion #Slack***
+⚒️ ***보유스택*** - ***#Express.js #Nest.js #MySQL #Sequelize #TypeORM #AWS(RDS, S3, EC2) #GitHub Actions #Redis #JWT #Socket.io #HTML5 #CSS #JQuery #GitHub #ZEP #Notion #Slack***
 
 ---
 ### **SKILL HILIGHTS** 🔑
