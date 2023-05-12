@@ -4,7 +4,7 @@
 
 <br>
 
-## **⚒️ STACK**
+### **⚒️ STACK**
 
 
 #### Language
@@ -76,7 +76,6 @@
 ![Untitled 1](https://user-images.githubusercontent.com/118159763/237035312-92896f49-47f9-4b1b-867d-d17e2286bd4a.png)
 🎉 **홈 파티를 주최하여 친구를 사귀는 소셜 커뮤니티 플랫폼**
 
----
 
 > ***Food-Challenge_E-Commerce 팀 프로젝트***
 > 
