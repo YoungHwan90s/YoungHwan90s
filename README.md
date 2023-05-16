@@ -2,8 +2,6 @@
 
 **Node.js Junior Developer** | 📧 *younghwan1608@gmail.com* | 🔗[***LinkedIn***](https://www.linkedin.com/in/young-hwan-oh/)
 
-<br>
-
 ## **⚒️ STACK**
 
 #### **Language**
