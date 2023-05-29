@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> 
 
 #### **🤝 Collaboration Tool**
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
 
 <br>
 
@@ -38,21 +38,6 @@
 - GitHub Actions - **자동 배포 환경** 구축
 - 팀 협업 서비스 제작 프로젝트 경험
 - **영어** 문서 읽기, 의사소통 및 비즈니스 이메일 작성
-
-<br>
-
-## **🧑🏻‍💻 BACKGROUND**
-
- 🗓️ *‘22.11 - ‘23.04* | *스파르타코딩클럽 Nodejs 백엔드엔지니어 양성과정 수료 (부트캠프)*
-
-- Express, Nest.js 기반 RESTful API 서버 개발 및 CS 기초 지식 습득
-- 데이터베이스 모델링, 구축 및 관리
-- 게시판, E-commerce, 소셜 커뮤니티 제작 웹 서비스 제작 및 배포 프로젝트 경험
-- 팀 프로젝트 리더를 통한 리더십 강화
-
-<br>
-
- 🗓️ *‘09.03 - ‘16.02*  | *제주대학교 **영어영문학과** 학사 졸업* | *관광경영학과 복수 전공*
 
 <br>
 
